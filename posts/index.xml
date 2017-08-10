@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on jum&#39;s random musings</title>
+    <link>http://jum.github.io/posts/</link>
+    <description>Recent content in Posts on jum&#39;s random musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Sep 2016 20:54:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://jum.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Cost of IP Traffic</title>
+      <link>http://jum.github.io/posts/ip-costs/</link>
+      <pubDate>Mon, 12 Sep 2016 20:54:00 +0200</pubDate>
+      
+      <guid>http://jum.github.io/posts/ip-costs/</guid>
+      <description>A Typical Scenario In most modern apps the assumption is that IP traffic is basically free. Most desktop apps just use the Internet as they see fit. On mobile phones (iOS as per my experience) there is a way to find out if the device is connected via the mobile data network, which might be volume capped and thus expensive. Mobile apps do allow to postpone certain bulk data accesses to times when the device is connected via WIFI.</description>
+    </item>
+    
+  </channel>
+</rss>

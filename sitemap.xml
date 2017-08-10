@@ -3,28 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://jum.github.io/posts/ip-costs/</loc>
+    <loc>https://jum.github.io/posts/ip-costs/</loc>
     <lastmod>2016-09-12T20:54:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://jum.github.io/categories/</loc>
+    <loc>https://jum.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jum.github.io/posts/</loc>
+    <loc>https://jum.github.io/tags/development/</loc>
     <lastmod>2016-09-12T20:54:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jum.github.io/tags/</loc>
+    <loc>https://jum.github.io/categories/development/</loc>
+    <lastmod>2016-09-12T20:54:00+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://jum.github.io/</loc>
+    <loc>https://jum.github.io/tags/networking/</loc>
+    <lastmod>2016-09-12T20:54:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jum.github.io/posts/</loc>
+    <lastmod>2016-09-12T20:54:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jum.github.io/tags/</loc>
+    <lastmod>2016-09-12T20:54:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jum.github.io/</loc>
     <lastmod>2016-09-12T20:54:00+02:00</lastmod>
     <priority>0</priority>
   </url>

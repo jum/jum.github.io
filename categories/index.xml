@@ -2,13 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on jum&#39;s random musings</title>
-    <link>http://jum.github.io/categories/</link>
+    <link>https://jum.github.io/categories/</link>
     <description>Recent content in Categories on jum&#39;s random musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://jum.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jum.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Development</title>
+      <link>https://jum.github.io/categories/development/</link>
+      <pubDate>Mon, 12 Sep 2016 20:54:00 +0200</pubDate>
+      
+      <guid>https://jum.github.io/categories/development/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

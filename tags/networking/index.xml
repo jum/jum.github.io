@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jum&#39;s random musings</title>
-    <link>https://jum.github.io/</link>
-    <description>Recent content on jum&#39;s random musings</description>
+    <title>Networking on jum&#39;s random musings</title>
+    <link>https://jum.github.io/tags/networking/</link>
+    <description>Recent content in Networking on jum&#39;s random musings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Sep 2016 20:54:00 +0200</lastBuildDate>
     
-	<atom:link href="https://jum.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jum.github.io/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
